@@ -51,4 +51,3 @@ function captureAndSend() {
     setTimeout(captureAndSend, 100);
   }
 }
-تحديث script.js إلى الكود النهائي
